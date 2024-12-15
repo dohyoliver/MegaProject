@@ -1,0 +1,7 @@
+Használat:
+1. Lépés a backendbe töltsd le a node modulet(npm i)
+2. Lépés indítsd el a backendet node.js-sel
+2. Lépés: Mysql be importáld a backend mappában lévő webshop.sqlt
+3. Lépes: a frontendbe töltsd le a node modulet(npm i)
+4. Lépés: indítsd el az alkalmazást npm run devvel
+5. Lépés használd az alkalmazást a feladat leírása alapján, először regiszrálj aztán jelentkezz be és használd az alkalmazást
